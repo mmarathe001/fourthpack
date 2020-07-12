@@ -1,0 +1,13 @@
+{
+    "name": "mmarathe/mahesh_new",
+    "description": "demo second",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":{
+			"psr-4":{
+						"mahesh\\demoNamespace\\" : "src/"
+					}
+			}
+}
